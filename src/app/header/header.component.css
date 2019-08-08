@@ -1,0 +1,7 @@
+.header{
+    margin: 1px;
+    border: 6px solid grey;
+    background-color: aqua;
+    text-align: center;
+    min-height: 150px;
+}

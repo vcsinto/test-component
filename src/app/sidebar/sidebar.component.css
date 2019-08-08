@@ -1,0 +1,6 @@
+.sidebar {
+    background-color: blueviolet;
+    min-height: 500px;
+    border: 6px solid grey;
+    text-align: center;
+}
